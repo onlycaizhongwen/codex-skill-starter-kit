@@ -1,0 +1,4 @@
+interface:
+  display_name: "会话清理"
+  short_description: "安全清理旧 Codex 会话"
+  default_prompt: "使用 $session-cleanup 预览并安全清理旧 Codex 会话和明确可删的临时残留。"

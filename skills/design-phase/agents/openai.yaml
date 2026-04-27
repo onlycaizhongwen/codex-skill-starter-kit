@@ -1,0 +1,4 @@
+interface:
+  display_name: "设计阶段"
+  short_description: "把需求落成技术设计文档"
+  default_prompt: "使用 $design-phase 根据当前 requirements 文档生成技术设计，并回写 status.md。"

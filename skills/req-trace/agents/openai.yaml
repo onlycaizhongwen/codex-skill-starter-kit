@@ -1,0 +1,4 @@
+interface:
+  display_name: "需求追踪"
+  short_description: "审查需求到实现是否闭环"
+  default_prompt: "使用 $req-trace 审查当前主题从需求到实现是否闭环，并输出 trace 文档。"

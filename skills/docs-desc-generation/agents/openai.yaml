@@ -1,0 +1,6 @@
+interface:
+  display_name: "业务域文档生成"
+  short_description: "生成 docs/desc 业务域文档"
+  default_prompt: "使用 $docs-desc-generation 为当前项目生成或补充 docs/desc 业务域文档。"
+policy:
+  allow_implicit_invocation: true

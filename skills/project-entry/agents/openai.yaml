@@ -1,0 +1,6 @@
+interface:
+  display_name: "项目入口"
+  short_description: "统一项目任务的技能编排入口"
+  default_prompt: "使用 $project-entry 作为项目工作的统一入口，并自动选择需要串联的 Codex 技能。"
+policy:
+  allow_implicit_invocation: true

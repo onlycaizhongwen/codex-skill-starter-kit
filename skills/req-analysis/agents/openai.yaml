@@ -1,0 +1,4 @@
+interface:
+  display_name: "需求分析"
+  short_description: "把原始需求拆成可实现主题"
+  default_prompt: "使用 $req-analysis 把当前需求整理成 requirements 文档并回写 status.md。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "技能导入安装"
+  short_description: "把技能工程安装到 Codex 目录"
+  default_prompt: "使用 $starter-kit-import 把这套中文 Codex 技能工程安装到技能目录。"

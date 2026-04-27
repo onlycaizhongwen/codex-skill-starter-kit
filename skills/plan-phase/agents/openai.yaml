@@ -1,0 +1,4 @@
+interface:
+  display_name: "计划阶段"
+  short_description: "把设计拆成执行计划"
+  default_prompt: "使用 $plan-phase 根据当前 design 文档生成实施计划，并回写 status.md。"

@@ -1,0 +1,6 @@
+interface:
+  display_name: "开发约束"
+  short_description: "约束 Codex 的安全开发流程"
+  default_prompt: "使用 $dev-constraints 约束当前仓库中的实现、阅读和文档修改流程。"
+policy:
+  allow_implicit_invocation: true

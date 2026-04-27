@@ -1,0 +1,6 @@
+interface:
+  display_name: "开发小工具"
+  short_description: "只读查询数据库、ES 与 Nacos"
+  default_prompt: "使用 $dev-small-tool 查询数据库表结构、ES mapping、Nacos 配置或基础设施连接信息。"
+policy:
+  allow_implicit_invocation: true

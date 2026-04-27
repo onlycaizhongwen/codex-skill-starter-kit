@@ -1,0 +1,4 @@
+interface:
+  display_name: "技能工程说明"
+  short_description: "解释这套中文 Codex 技能工程"
+  default_prompt: "使用 $starter-kit-guide 说明这套 Codex 中文技能工程包含哪些技能以及如何使用。"

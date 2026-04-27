@@ -1,0 +1,6 @@
+interface:
+  display_name: "任务控制"
+  short_description: "持久化管理长任务与恢复点"
+  default_prompt: "使用 $task-control 为当前任务注册、暂停、恢复或完成持久化记录。"
+policy:
+  allow_implicit_invocation: true

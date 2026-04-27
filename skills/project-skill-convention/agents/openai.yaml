@@ -1,0 +1,6 @@
+interface:
+  display_name: "项目技能公约"
+  short_description: "统一多阶段协作目录与状态"
+  default_prompt: "使用 $project-skill-convention 统一需求、设计、计划、实现和追踪阶段的协作规则。"
+policy:
+  allow_implicit_invocation: true
